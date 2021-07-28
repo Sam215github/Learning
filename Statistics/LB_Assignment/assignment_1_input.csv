@@ -1,0 +1,5 @@
+test_flag,population_mean,sample_mean,population_size,sample_size,standard_deviation,alpha,tail_flag
+3,6,6.1,500,30,0.2,0.05,1
+1,,,500,200,0.2,0.05,1
+2,20,,,,,,
+4,6,6.1,500,30,0.2,0.05,1
